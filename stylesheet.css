@@ -1,4 +1,4 @@
-/* latin-ext  from dhruvsreenivas.github.io */ 
+/* latin-ext  from dhruvsreenivas.github.io: new style from Jonathan Chang and Jon Barron*/ 
 @font-face {
     font-family: 'Lato';
     font-style: italic;
@@ -128,4 +128,11 @@
   
   span.highlight {
     background-color: #ffffd0;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
